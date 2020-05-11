@@ -1,0 +1,1 @@
+Repo for az cli and notes for AZ-400
